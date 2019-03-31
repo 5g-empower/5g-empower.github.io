@@ -1,19 +1,18 @@
-EmPOWER: Mobile Networks Operating System
+5G-EmPOWER: Mobile Networks Operating System
 =========================================
 
-### What is EmPOWER?
-EmPOWER is a new network operating system designed for heterogeneous mobile networks.
+### What is 5G-EmPOWER?
+5G-EmPOWER is a mobile network operating system designed for heterogeneous wireless/mobile networks.
 
 ### Top-Level Features
 * Supports both LTE and WiFi radio access networks
-* Northbound abstractions for a global network view, network graph, and
-  application intents.
+* Northbound abstractions for a global network view, network graph, and application intents.
 * REST API and native (Python) API for accessing the Northbound abstractions
 * Support for Click-based Lightweight Virtual Networks Functions
 * Declarative VNF chaning on precise portion of the flowspace
-* Flexible southbound interface supporting WiFi APs LTE eNBs
+* Flexible southbound interface supporting WiFi APs and LTE eNBs
 
-Checkout out our [website](http://empower.create-net.org/) and our [wiki](https://github.com/5g-empower/5g-empower.github.io/wiki).
+Checkout out our [website](http://5g-empower.io/) and our [wiki](https://github.com/5g-empower/5g-empower.github.io/wiki)
 
 This repository includes the EmPOWER website and the wiki.
 
