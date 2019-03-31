@@ -17,4 +17,5 @@ Checkout out our [website](http://empower.create-net.org/) and our [wiki](https:
 
 This repository includes the EmPOWER website and the wiki.
 
+### License
 Code is released under the Apache License, Version 2.0.
